@@ -8,6 +8,7 @@ This is a monorepo containing a project developed during the Full-Cycle Develope
 
 Explore individual directories for more information about each component of the project.
 
+```
 root/
 ├── docker-compose.yml
 ├── README.md
@@ -28,3 +29,4 @@ root/
 │   ├── package.json
 │   ├── Dockerfile
 └── ...
+```
