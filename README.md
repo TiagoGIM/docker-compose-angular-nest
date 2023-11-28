@@ -3,7 +3,7 @@
 This is a monorepo containing a project developed during the Full-Cycle Developer Program. The repository includes:
 
 - `web-app`: Aplicação front-end desenvolvida em Angular v16.
-- `user-service`: Back-end microservice built in nestJs.
+- `user-service`: Back-end microservice built in @nestjs/cli@10.2.1.
 - Docker Compose configuration to facilitate the execution of services.
 
 Explore individual directories for more information about each component of the project.
